@@ -36,3 +36,11 @@ The goal of this repository is to maintain all important resources in one place 
 - Regular practice using previous year questions  
 - Improve aptitude and English skills required for GATE
 
+
+---
+
+##How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/GATE-Preparation.git

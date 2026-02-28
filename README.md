@@ -1,6 +1,6 @@
-GATE Preparation Materials
+Preparation Materials
 
-This repository contains organized study materials for **GATE (Graduate Aptitude Test in Engineering)** preparation.
+This repository contains organized study materials.
 
 The goal of this repository is to maintain all important resources in one place for easy access and structured learning.
 
@@ -30,11 +30,9 @@ The goal of this repository is to maintain all important resources in one place 
 - Reading comprehension practice
 - Sentence correction exercises
 - 
-#Purpose
-- Centralized study resource for GATE preparation  
-- Easy revision before exams  
+#Purpose  
 - Regular practice using previous year questions  
-- Improve aptitude and English skills required for GATE
+- Improve aptitude and English skills required for GATE and Government Exam
 
 
 ---

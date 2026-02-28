@@ -36,5 +36,3 @@ The goal of this repository is to maintain all important resources in one place 
 - Regular practice using previous year questions  
 - Improve aptitude and English skills required for GATE
 
-## 📂 Folder Structure
-

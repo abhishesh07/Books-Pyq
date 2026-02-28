@@ -4,28 +4,33 @@ This repository contains organized study materials for **GATE (Graduate Aptitude
 
 The goal of this repository is to maintain all important resources in one place for easy access and structured learning.
 
-Contents
-Engineering Mathematics
+#Contents
+
+#Engineering Mathematics
 - Engineering Mathematics book by **D. V. Sridhar**
 - Concept notes
 - Practice problems
 - Formula sheets
-Previous Year Question Papers
+- 
+#Previous Year Question Papers
 - GATE Previous Year Papers
 - Subject-wise questions
 - Practice sets for revision
 - Exam pattern understanding
-General Aptitude
+- 
+#General Aptitude
 - Quantitative Aptitude materials
 - Logical reasoning questions
 - Numerical ability practice
 - Problem-solving exercises
-English Preparation
+- 
+#English Preparation
 - Grammar notes
 - Vocabulary building
 - Reading comprehension practice
 - Sentence correction exercises
-Purpose
+- 
+#Purpose
 - Centralized study resource for GATE preparation  
 - Easy revision before exams  
 - Regular practice using previous year questions  

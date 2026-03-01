@@ -41,4 +41,4 @@ The goal of this repository is to maintain all important resources in one place 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GATE-Preparation.git
+   git clone https://github.com/abhishesh07/Books-Pyq
